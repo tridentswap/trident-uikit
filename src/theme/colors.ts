@@ -36,7 +36,7 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
-  secondary: "#ecd76e",
+  secondary: "#f3cc0d",
   background: "#0c1b38",
   backgroundDisabled: "#3c3742",
   contrast: "#FFFFFF",
@@ -49,7 +49,7 @@ export const darkColors: Colors = {
   textSubtle: "#b3ca35",
   borderColor: "#524B63",
   // card: "#27262c",
-  card: "#071329b3",
+  card: "#152d2b",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
   },
