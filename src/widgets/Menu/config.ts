@@ -117,12 +117,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "http://t.me/predatorfinancegroup",
+    href: "https://t.me/joinchat/5WGspdLKPWkxOThh",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "http://twitter.com/predatorfinance",
+    href: "https://twitter.com/KingdomofPoseid",
   },
   // {
   //   label: "Reddit",
